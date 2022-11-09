@@ -60,7 +60,7 @@
     },
     "OSVersion": {
       "type": "string",
-      "defaultValue": "2022-datacenter-azure-edition-core",
+      "defaultValue": "2022-datacenter-smalldisk-g2",
       "allowedValues": [
         "2008-R2-SP1",
         "2008-R2-SP1-smalldisk",
@@ -129,7 +129,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_D2s_v5",
+      "defaultValue": "Standard_B2ms",
       "metadata": {
         "description": "Size of the virtual machine."
       }
