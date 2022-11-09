@@ -150,7 +150,7 @@
     }
   },
   "variables": {
-    "storageAccountName": "gaia-storageaccount",
+    "storageAccountName": "gaiast",
     "nicName": "gaiaNic",
     "addressPrefix": "10.0.0.0/16",
     "subnetName": "gaia_subnet",
